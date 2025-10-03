@@ -8,9 +8,9 @@ Este espaço é dedicado ao armazenamento de resumos e mapas mentais sobre os co
 
 O repositório está organizado nos seguintes tópicos, cada um em seu próprio arquivo Markdown:
 
-1.  **[O Papel da Informação e a Segurança no Mundo Virtual (Capítulo 1)](./capitulo1.md)**: Aborda a importância da informação como um ativo, suas classificações (pública, interna, confidencial e secreta) e a introdução à gestão de segurança com ações preventivas, detectivas e corretivas.
+1.  **[O Papel da Informação e a Segurança no Mundo Virtual (Capítulo 1)](Capitulo1.md)**: Aborda a importância da informação como um ativo, suas classificações (pública, interna, confidencial e secreta) e a introdução à gestão de segurança com ações preventivas, detectivas e corretivas.
 
-2.  **[Importância da Segurança no Mundo Virtual (Capítulo 2)](./capitulo2.md)**: Foca nos pilares da Segurança da Informação (Confidencialidade, Integridade e Disponibilidade) e nas principais ferramentas de proteção contra ameaças, como Firewall, VPN e IDS/IPS.
+2.  **[Importância da Segurança no Mundo Virtual (Capítulo 2)](./Capitulo2.md)**: Foca nos pilares da Segurança da Informação (Confidencialidade, Integridade e Disponibilidade) e nas principais ferramentas de proteção contra ameaças, como Firewall, VPN e IDS/IPS.
 
 3.  **[Controle de Acesso (Capítulo 3)](./capitulo3.md)**: Detalha os mecanismos de controle de acesso físico e lógico, além de tecnologias essenciais para transações eletrônicas seguras, como Criptografia, Certificação Digital e Assinatura Digital.
 
